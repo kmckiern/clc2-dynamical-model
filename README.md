@@ -2,7 +2,7 @@
 
 Data accompanying [Dynamical model of the CLC-2 ion channel exhibits a two-step gating mechanism](https://www.biorxiv.org/content/early/2018/03/07/228163).
 
-![simulated system](media/in_membrane.png)
+![simulated system](media/in_membrane.png | width=400)
 
 ### macrostate conformations
 

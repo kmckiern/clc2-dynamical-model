@@ -15,6 +15,14 @@ Four distinct protein macrostates were derived by this study. PDB files for each
 Alignment of the CLC-2 model with the 3ORG template structure monomer and
 selectivity filter are given in the `sequence_alignment` directory.
 
+### sf rotation movies
+
+Movies showing the overlay of key selectivity conformational states and
+reference experimental structures are given in the `sf_rotation_movies`
+directory.
+
+![macrostate model](media/rotations.gif)
+
 ### citation
 
 If you make use of this data, please cite it.

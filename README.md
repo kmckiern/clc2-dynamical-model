@@ -13,7 +13,7 @@ Molecular dynamics simulations of the CLC-2 ion channel. Stanford Digital Reposi
 Available at: https://purl.stanford.edu/rq847qm8302
 ```
 
-Note this data is provided in a compressed format and will need to be loaded using a corresponding topology file. These topology files are provided in `simulation_data/sdr.tar.gz`.
+Note that this data is provided in a compressed format (`xtc`) and will need to be loaded using an uncompressed (`pdb`) topology file. These topology files are provided in `simulation_data/sdr.tar.gz`.
 
 ### macrostate conformations
 

@@ -4,6 +4,17 @@ Data accompanying [Dynamical model of the CLC-2 ion channel exhibits a two-step 
 
 ![simulated system](media/in_membrane.png)
 
+### simulation data
+
+Full simulation dataset is available online via the Stanford Digital Repository.
+```
+McKiernan, Keri A. and Koster, Anna K. and Maduke, Merritt and Pande, Vijay S. (2019). 
+Molecular dynamics simulations of the CLC-2 ion channel. Stanford Digital Repository. 
+Available at: https://purl.stanford.edu/rq847qm8302
+```
+
+Note this data is provided in a compressed format and will need to be loaded using a corresponding topology file. These topology files are provided in `simulation_data/sdr.tar.gz`.
+
 ### macrostate conformations
 
 Four distinct protein macrostates were derived by this study. PDB files for each macrostate monomer and selectivity filter are provided here: `pdb/mono_{macrostate label}.pdb` and `pdb/sf_{macrostate_label}.pdb`. The `{macrostate label}` for each state is illustrated below.
